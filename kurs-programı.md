@@ -1,10 +1,10 @@
 # C Programlama Dili Kursu İçeriği
 
-+ Kursun Tanıtımı
-++ C Programlama Dilinin Genel Tanıtımı
-++ programlama dillerini birbirinden ayıran kriterler
-	+++ declarative ve imperative diller
-	+++ programlama paradigmaları
++Kursun Tanıtımı
+++C Programlama Dilinin Genel Tanıtımı
+++programlama dillerini birbirinden ayıran kriterler
+	+++declarative ve imperative diller
+	+++programlama paradigmaları
 	+++ seviye (level)
 	+++ mülkiyet
 	+++ statik ve dinamik tür kavramları
