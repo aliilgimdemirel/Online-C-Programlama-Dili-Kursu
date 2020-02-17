@@ -120,3 +120,32 @@
 		+ putchar
 	+ standart başlık dosyaları
 	+ standart math kütüphanesi
+
++ __Operatörler (Operators)__
+	+ temel kavramlar
+		+ operatörlerin değer üretmesi
+		+ operatör önceliği
+		+ öncelik yönü (associativity)
+		+ yan etki (side effect)
+		+ yan etki noktası (sequence point)
+	+ aritmetik operatörler
+		+ toplama, çıkarma, çarpma, bölme ve kalan operatörleri
+		+ işaret operatörleri (sign operators)
+		+ artırma ve eksiltme operatörleri (increment & decrement operators)
+	+ karşılaştırma operatörleri
+		+ karşılaştırma idiyomları
+		+ tipik hatalar
+	+ lojik operatörler
+		+ lojik yorumlama
+		+ kısa devre davranışı
+		+ tipik hatalar
+		+ lojik ifadeler
+		+ idiyomlar
+	+ atama operatörleri
+		+ atama operatörlerinin değer üretmesi
+		+ yalın atama operatörü
+		+ işlemli atama (compound assignment) operatörleri
+		+ idiyomlar
+	+ virgül operatörü
+	+ celik operatörü
++ __Sabitler (Constants)__
