@@ -304,3 +304,107 @@
 		+ const anahtar sözcüğü ve const semantiği
 		+ volatile anahtar sözcükleri
 		+ restrict anahtar sözcüğü
++ __Programların sonlandırılması__
+	+ Normal sonlanma ve standart exit işlevi (normal termination)
+		+ standart atexit işlevi
+	+ Anormal sonlanma ve standart abort işlevi (abnormal termination)
+	
++ Yapılar (Structures)
+	+ genel sentaks
+		+ yapı öğeleri
+		+ nokta operatörü
+		+ ok operatörü
+		+ yapı nesnelerine ilk değer verilmesi
+	+ yapı nesneleri ve işlevler
+	+ tamamlanmış ve eksik türler (complete / incomplete types)
+	+ içsel türler (nested types)
+	+ yapı öğesinin kendi türünden gösterici olması
+	+ düğüm (node) kavramı
+	+ bağlı liste (linked list) veri yapısı
+		+ tekli bağlı listeler (singly linked lists)
+		+ çifte bağlı listeler (double linked lists)
+		+ döner bağlı isteler (rotating lists)
+	+ ikili arama ağacı (binary search tree) veri yapısı
+	+ yapı türlerinden sabitler (compound literals)
+	+ handle kavramı ve nesne yönelimli C kütüphaneleri
+	+ Hizalama ve yapı türleri
+		+ hizalama ile ilgili kodlama hataları
+		+ offsetof makrosu		
+	+ Anonim yapılar
+	+ Yapıların içsel türleri (nested types)
++ __Standart time Kütüphanesi (time Library)__
+	+ takvim zamanı ve ayrıştırılmış zaman
+		+ time_t türü
+		+ clock_t türü
+	+ struct tm yapısı
+	+ time, localtime, gmtime, ctime, asctime, strftime, mktime, clock işlevleri
+
++ __Birlikler (Unions)__
+	+ birliklerin kullanım temaları
+	+ tagged unions
++ __Numaralandırmalar (Enumarations)__
+	+ numaralandırma sabitleri
+	+ enum idiyomları
++ __Bitsel İşlemler (Bitwise Operations)__
+	+ bitsel operatörler
+	+ bitsel manipülasyon işlemleri
+	+ yapıların bit alanı öğeleri
+	+ bitsel işlemler ve birlikler
+	+ bit vektör kullanımı
+	+ bitsel düzeyde oluşturulan arama (lookup) tabloları
++ __Komut Satırı Argümanları (Command Line Arguments)__
++ __Dosya İşlemleri (File Operations)__
+	+ dosyaların açılması ve kapatılması
+		+ dosya açış modları
+			+ okuma, yazma ve sona ekleme modları
+			+ text modu ve binary mod
+		+ fopen, freopen, fclose ve fcloseall işlevleri
+	+ okuma ve yazma işlemleri
+		+ formatlı okuma yazma işlemleri
+			+ fprintf işlevi
+			+ fscanf işlevi
+			+ fputs işlevi
+			+ fgets işlevi
+		+ formatsız okuma yazma işlemleri
+			+ fgetc işlevi
+			+ fputc işlevi
+			+ fread işlevi
+			+ fwrite işlevi
+	+ standart dosya konum göstericisi işlevleri
+		+ fseek işlevi
+		+ ftell işlevi
+		+ rewind işlevi
+		+ fsetpos işlevi
+		+ fgetpos işlevi
+		+ feof, ferror, clearerr, fflush işlevleri
+		+ fsetbuf işlevi
+		+ ungetc işlevi
+	+ Diğer dosya işlevleri ve örnek uygulamalar
++ __Standart signal kütüphanesi__
+
++ __Önişlemci Komutları – 2__
+	+ önişlemci operatörleri
+		+ # dizge yapma (stringification) operatörü
+		+ ## atom yapıştırma (token-pasting) operatörü
+		+ defined operatörü
+	+ öntanımlı sembolik sabitler (predefined symbolic constants)
+	+ #line komutu
+	+ #error komutu
+	+ #pragma komutu
++ __assert Makrosu__
+
++ __Değişken Sayıda Argümanla Çağrılabilen İşlevler (Variadic Functions)__
+
+# __C99 Standartları ile Eklenen Önemli Öğeler__
+	+ long long veri türü 
+	+ for döngü deyiminde yapılan bildirimler
+	+ _Bool anahtar sözcüğü ve <stdbool.h> başlık dosaysı
+	+ <stdint.h> başlık dosyası ve standart tür eş isimleri
+	+ inline fonksiyonlar (inline functions)
+	+ değişken boyutlu diziler (variable length arrays)
+	+ yapıların esnek dizi öğeleri (flexible array members)
+	+ restrict belirteci
+	+ bileşik sabitler (compound literals)
+	+ variadic makrolar (variadic macros)
+	+ C99 standartları ile eklenen diğer standart kütüphane öğeleri
+ 
