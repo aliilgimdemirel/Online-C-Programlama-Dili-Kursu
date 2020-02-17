@@ -45,3 +45,19 @@
 			+ sol taraf değeri ifadesi (L value expression)
 			+ sağ taraf değeri ifadesi (R value expression)
 		+ sabit ifadesi (constant expression)
+		
++ __Bir C Programı Oluşturmak__
+	+ metin düzenleyici programlar ve text dosyaları
+	+ kaynak dosya ve çeviri birimi
+	+ derleyici program ve derleme süreci
+		+ derleyici bulgu iletileri
+		+ tanımsız davranış (undefined behavior)
+		+ derleyiciye bağlı durumlar (implementation defined behavior)
+		+ derleyici programların lojik kontrolleri
+		+ derleyiciler ve kod optimizasyonu
+		+ derleyici eklentileri (compiler extensions)
+	+ önişlemci program (preprocessor)
+	+ bağlayıcı program (linker) bağlama zamanı
+	+ ide’ler ve yardımcı programlar
+		+ statik kod analizi yapan programlar
+		+ hata ayıklayıcı programlar
