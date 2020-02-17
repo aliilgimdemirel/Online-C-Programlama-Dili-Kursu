@@ -90,11 +90,11 @@
 	
 + __İşlevler (Functions)__
 	+ işlevlerin tanımlanması (function definitions)
-işlevlerin parametre değişkenleri
-işlevlerin geri dönüş değerleri
-değerle çağrı (call by value)
-referansla çağrılan işlevler (call by reference)
-void işlevler
+		+ işlevlerin parametre değişkenleri
+		+ işlevlerin geri dönüş değerleri
+		+ değerle çağrı (call by value)
+		+ referansla çağrılan işlevler (call by reference)
+		+ void işlevler
 	+ return deyimi (return statement)
 		+ifadeli ve ifadesiz return deyimleri
 	+ saf (pure) ve saf olmayan (impure) işlevler
