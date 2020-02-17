@@ -96,9 +96,27 @@
 		+ referansla çağrılan işlevler (call by reference)
 		+ void işlevler
 	+ return deyimi (return statement)
-		+ifadeli ve ifadesiz return deyimleri
+		+ ifadeli ve ifadesiz return deyimleri
 	+ saf (pure) ve saf olmayan (impure) işlevler
 	+ işlevlerin çağrılması (function calls)
 		+ işlev çağrılarından elde edilen değerlerin kullanılması
 	+ inline işlevler (inline functions)
 	+ işlevlerin bildirilmesi (function declarations)
+	
++ __Standart Kütüphane (Standard Library)__
+	+ standart kütüphanenin varlık nedenleri
+		+ ortak arayüz (common interface) ilkesi
+		+ taşınabilirlik (portability)
+		+ kodların tekrar kullanımı (code reuse)
+	+ standart formatlı giriş çıkış işlevleri
+		+ standart giriş akımı (standard input stream)
+		+ standart çıkış akımları (standard output stream)
+		+ standart hata akımı (standard error stream)
+		+ akımların yönlendirilmesi (direction of the streams)
+		+ printf işlevi
+		+ scanf işlevi
+	+ standart formatsız giriş ve çıkış işlemleri
+		+ getchar
+		+ putchar
+	+ standart başlık dosyaları
+	+ standart math kütüphanesi
