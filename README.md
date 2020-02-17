@@ -9,7 +9,7 @@
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/edit/master/sss.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
 
 [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://zoom.us/meeting/register/uZYvf-2qrzsjgYiW9i7ffIctSeU4DwS9Nw)
 
