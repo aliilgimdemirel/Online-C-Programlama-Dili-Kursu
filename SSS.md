@@ -34,7 +34,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-### Belirli seviyede C++ biliyorum. Programın tamamına katılmak yerine yalnızca belirli derslere katılabilir miyim?
+### Belirli seviyede C biliyorum. Programın tamamına katılmak yerine yalnızca belirli derslere katılabilir miyim?
 Evet. Ancak bunu önermiyorum. Daha önce aldığınız eğitimlerde ya da kişisel çalışmalarınızda temel kavramlar yerine oturmamış olabilir. Kursun yalnızca belirli derslerine katılmanız kurstan aldığınız verimi düşürebilir.
 
 ### Okulda C Programlama dersi alıyorum. Bu kursu almam dersi geçmemi kolaylaştırır mı?
