@@ -155,3 +155,20 @@
 			+ üstel (scientific) notasyon
 		+ karakter sabitleri
 			+ kaçış sekansları (escape sequences)
+			
++ __Kontrol Deyimleri__
+	+ if deyimi
+		+ genel sentaks
+		+ else if merdiveni
+		+ tipik yapılan hatalar
+		+ test işlevleri
+	+ döngü deyimleri
+		+ while döngü deyimi
+		+ do while döngü deyimi
+		+ for döngü deyimi
+		+ break deyimi
+		+ continue deyimi
+		+ iç içe döngüler
+		+ döngü idiyomları
+	+ switch deyimi
+	+ goto deyimi
