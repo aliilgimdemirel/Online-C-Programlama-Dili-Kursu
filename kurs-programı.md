@@ -61,3 +61,9 @@
 	+ ide’ler ve yardımcı programlar
 		+ statik kod analizi yapan programlar
 		+ hata ayıklayıcı programlar
+		
++ __Veri Türleri (Data Types)__
+	+ varsayılan türler (fundemental types)
+		+ tamsayı türleri (integer types)
+		+ gerçek sayı türleri (floating types)
+	+ programcı tarafından oluşturulan türler (user defined types)
