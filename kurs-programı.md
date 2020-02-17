@@ -1,6 +1,6 @@
 # C Programlama Dili Kursu İçeriği
 
-+ Kursun Tanıtımı
++ __Kursun Tanıtımı__
 + C Programlama Dilinin Genel Tanıtımı
 + programlama dillerini birbirinden ayıran kriterler
 	+ declarative ve imperative diller
