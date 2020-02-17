@@ -82,3 +82,23 @@
 			+ function scope
 	+ isim arama (name lookup)
 	+ isim çakışmaları (name collision)
+	
++ __Ömür Kavramı (Storage Duration)__
+	+ otomatik ömür (automatic storage class)
+	+ statik ömür (static storage class)
+	+ dinamik ömür (dynamic storage class)
+	
++ __İşlevler (Functions)__
+	+ işlevlerin tanımlanması (function definitions)
+işlevlerin parametre değişkenleri
+işlevlerin geri dönüş değerleri
+değerle çağrı (call by value)
+referansla çağrılan işlevler (call by reference)
+void işlevler
+	+ return deyimi (return statement)
+		+ifadeli ve ifadesiz return deyimleri
+	+ saf (pure) ve saf olmayan (impure) işlevler
+	+ işlevlerin çağrılması (function calls)
+		+ işlev çağrılarından elde edilen değerlerin kullanılması
+	+ inline işlevler (inline functions)
+	+ işlevlerin bildirilmesi (function declarations)
