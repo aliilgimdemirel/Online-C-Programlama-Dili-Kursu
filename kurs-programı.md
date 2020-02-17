@@ -384,8 +384,8 @@
 
 + __Önişlemci Komutları – 2__
 	+ önişlemci operatörleri
-		+ # dizge yapma (stringification) operatörü
-		+ ## atom yapıştırma (token-pasting) operatörü
+		+ `#` dizge yapma (stringification) operatörü
+		+ `##` atom yapıştırma (token-pasting) operatörü
 		+ defined operatörü
 	+ öntanımlı sembolik sabitler (predefined symbolic constants)
 	+ #line komutu
@@ -395,7 +395,7 @@
 
 + __Değişken Sayıda Argümanla Çağrılabilen İşlevler (Variadic Functions)__
 
-# __C99 Standartları ile Eklenen Önemli Öğeler__
++ __C99 Standartları ile Eklenen Önemli Öğeler__
 	+ long long veri türü 
 	+ for döngü deyiminde yapılan bildirimler
 	+ _Bool anahtar sözcüğü ve <stdbool.h> başlık dosaysı
