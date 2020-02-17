@@ -147,5 +147,11 @@
 		+ işlemli atama (compound assignment) operatörleri
 		+ idiyomlar
 	+ virgül operatörü
-	+ celik operatörü
+	+ öncelik operatörü
 + __Sabitler (Constants)__
+	+ sabitlerin türleri
+		+ tamsayı sabitleri (integer constants)
+		+ gerçek sayı sabitleri (floating constants)
+			+ üstel (scientific) notasyon
+		+ karakter sabitleri
+			+ kaçış sekansları (escape sequences)
