@@ -34,23 +34,29 @@ Eğitim içeriğini bu bağlantıdan görebilirsiniz.
 Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıları Derneği`’nde eğitmen olarak görev yapmaktadır. `C ve C++` dillerinde aktif olarak uygulamalar geliştiren `Necati Ergin`, 100’ün üstünde şirket ve kuruma `C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları` konularında eğitim vermiştir. 
 `Necati Ergin`’in eğitim verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), [Havelsan](https://www.havelsan.com.tr/), [Roketsan](http://www.roketsan.com.tr/), [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), [Netaş](http://www.netas.com.tr/ana-sayfa/), [STM](https://www.stm.com.tr/tr), [Siemens](https://www.siemens-home.bsh-group.com/tr/), [THY Teknik](https://turkishtechnic.com/Home/TR), [Huawei](https://www.huawei.com/tr/), [Turkcell](https://www.turkcell.com.tr/), [Arçelik](https://www.arcelik.com.tr/), [Beko](https://www.beko.com.tr/), [Sunny Elektronik](https://www.sunny.com.tr/), [BSH](https://www.bsh-group.com/tr/), [Profilo](https://www.profilo.com/), [Mamur Teknoloji](http://www.mamurtech.com/), [Katron](http://katron.com.tr/), [TEB](https://www.teb.com.tr/), [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), [Türkiye İs Bankası](https://www.isbank.com.tr), [Garanti BBVA](https://www.garantibbva.com.tr/tr), [AVL Turkey](https://www.avl.com/-/avl-turkey), [Pavotek](https://pavotek.com.tr/), [Entes Elektronik](http://entes.com/tr/), [Audio Elektronik](https://www.audio.com.tr/), [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), [İspark](https://ispark.istanbul/), [Hugin](http://hugin.com.tr/tr/home), [Cardtek](https://www.paycore.com/), [Triodor Software](http://triodorarge.com/), [Crytek](https://www.crytek.com/), [Erdemir](https://www.erdemir.com.tr/), [İsdemir](https://www.isdemir.com.tr/), [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) gibi kurumlar yer almaktadır.
 
-### Kurs Formatı
-Kurs online olarak gerçek zamanlı verilmektedir. Kursun izlenmesi için zoom tabanlı bir yazılım kullanılmaktadır.
-Ders sırasında öğrenciler eğitmene soru sorabilirler.
-Kurs boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
-Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır.
-Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir rehberlik hizmetinden faydalanabilirler.
-Eğitim dili Türkçedir. Programlama ve C Dili ile ilgili tüm terimlerin İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
+## Format
++ `C Kursu` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
-### Eğitim Materyalleri
++ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
+
++ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.
+
++ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
+
++ Eğitim dili Türkçe’dir. Programlama ve `C` Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
+
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
+
+
+## Eğitim Materyalleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile github üzerinden paylaşılmaktadır.
 
-### Kurs Ücreti
+## Kurs Ücreti
 Kursun toplam ücreti KDV dahil 3.200 TL‘dir. Öğrenci olduğunu belgeleyenlere %10 indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse 2 taksitte ödeyebilirler.
 
-### Kursa Kayıt Olma
+## Kursa Kayıt Olma
 Kursa katılım için önce ön kayıt yaptırmalısınız.  Kayıt olurken kendi isminiz ve e-posta adresinizi kullanmalısınız.
-5 Ağustos 2019 Pazartesi tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
+9 Mart 2020 Pazartesi tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
-### Sık Sorulan Sorular 
-Kurs hakkında sormak istediğiniz soruların bir kısmının yanıtlarını sık sorulan sorular sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan Necati Ergin ile iletişime geçebilir ya da ona bir e-posta mesajı gönderebilirsiniz.
+## Sık Sorulan Sorular
+`Online C Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
