@@ -193,3 +193,35 @@
 		+ #ifdef
 		+ #ifndef
 	+ standart limits kütüphanesi
+	
++ __Tür Dönüşümleri (Type Conversions)__
+	+ otomatik tür dönüşümleri (implicit type conversions)
+	+ tür dönüştürme operatörü (type-cast operator)
+	+ tür dönüşümleri ve veri kaybı
+	
++ __typedef bildirimleri – 1__
+	+ tür eş isimleri (type alias) ve taşınabilirlik
+	+ standart typedef türleri
+		+ size_t tür eş ismi
+		+ ptrdiff_t tür ismi
+		+ time_t ve clock_t tür isimleri
+	+ stdint başlık dosyası
+	+ stdbool başlık dosyası
+	
++ __Rastgele Sayı Üretimi ve Programlamadaki Önemi__
+	+ gerçek ve sözde rastgele sayı üretimi
+	+ rastgele sayı üretim algoritmaları
+	+ tohum değeri (seed value)
+	+ standart rand ve srand işlevleri
++ __sizeof Operatörü__
++ __Diziler (arrays)__
+	+ veri yapıları ve algoritmalara giriş
+		+ veri yapıları
+		+ algoritmanın karmaşıklığı (complexity of algorithms)
+		+ big O notasyonu
+	+ tamsayı ve gerçek sayı dizileri
+	+ dizilere ilk değer verme
+		+ designated initializer (C99)
+	+ yazılar ve yazı tutan char diziler
+		+ null karakter
+		+ yazılara ilişkin temel algoritmalar
