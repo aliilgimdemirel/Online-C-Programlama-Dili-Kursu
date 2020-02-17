@@ -225,3 +225,82 @@
 	+ yazılar ve yazı tutan char diziler
 		+ null karakter
 		+ yazılara ilişkin temel algoritmalar
++ __Göstericiler (pointers)__
+	+ temel kavramlar
+		+ adres ifadeleri
+		+ gösterici değişkenler
+		+ göstericiler ve storage
+	+ adres operatörü
+	+ içerik (dereferencing) operatörü 
+	+ diziden adrese dönüşüm (aray to pointer conversion)
+	+ geçerli (valid) ve geçersiz (invalid) göstericiler
+	+ göstericiler ve const semantiği
+		+ kendisi const göstericiler
+		+ okuma amaçlı const göstericiler
+		+ const semantiği ve tür dönüşümleri
+	+ gösterici aritmetiği
+	+ indeks operatörü
+	+ diziler üstünde işlem yapan işlevler
+	+ göstericiler ve karşılaştırma işlemleri
+	+ adres döndüren işlevler (function returning pointers)
+	+ NULL gösterici
+	+ endianness, little endian, big endian kavramları
+	+ gösterici hataları
++ __Standart string Kütüphanesi (string library)__
+	+ strlen, strcpy, strcat, strncpy, strncat işlevleri
+	+ arama işlevleri: strchr, strnchr, strstr, strpbrk, strspn, strcspn
+	+ karşılaştırma işlevleri : strcmp, strcoll, stricmp
+	+ strtok işlevi
+	+ diğer standart string işlevleri
+	+ örnek bazı Posix işlevleri
++ __Standart stddef Kütüphanesi__
++ __String Sabitleri (String Literals)__
+	+ string sabitleri ve const doğruluğu (string literals and const correctness)
+	+ string sabitleri ve ömür
+	+ özdeş string sabitleri
+	+ string sabitleri ve kaçış ekansları
+	+ string sabitlerinin birden fazla satıra yayılması
++ __Gösterici Dizileri (Pointer Arrays)__
++ __Gösterici Gösteren Gösterici (Pointer to pointer)__
++ __void Göstericiler (void Pointers)__
+	+ türden bağımsız işlevler (generic functions)
+	+ standart memset, memcpy, memmove, memchr, memcmp işlevleri
+	+ void ** türü
++ __İşlev Göstericileri (Function Pointers)__
+	+ genel sentaks
+	+ işlevden adrese dönüşüm (function to pointer conversion)
+	+ işlev göstericileri ve typedef bildirimleri
+	+ geri çağrı (call-back) işlev yapısı
+	+ standart qsort ve bsearch işlevleri
+	+ işlev gösterici dizileri (function pointer arrays)
++ __Çok Boyutlu Diziler (Multi-dimensional Arrays)__
++ __Programların Sonlandırılması__
+	+ normal ve anormal sonlanma (normal & abnormal termination)
+	+ standart exit, atexit ve abort işlevleri
++ __Dinamik Bellek Yönetimi (Dynamic Memory Management)__
+	+ dinamik bellek ihtiyacı ve dinamik ömür kavramı
+	+ heap alanı ve yönetimi
+	+ heap’in parçalara ayrılması (fragmentation)
+	+ standart dinamik bellek yönetimi işlevleri
+		+ malloc
+		+ calloc
+		+ realloc
+		+ free
+		+ bellek sızıntısı (memory leak)
+		+ boşa düşen göstericiler (dangling pointers)
+		+ dinamik dizi (dynamic array) veri yapısı
+		
++ __Yer Belirleyiciler (Storage Class Specifiers) ve Tür Niteleyiciler (Type Modifiers)__
+	+ yer belirleyiciler (storage  class specifiers)
+		+ auto anahtar sözcüğü
+		+ register anahtar sözcüğü
+		+ extern anahtar sözcüğü
+		+ static anahtar sözcüğü
+		+ modül ve bağlantı kategorileri
+			+ iç bağlantı (internal linkage)
+			+ dış bağlantı (external linkage)
+		+ global isim alanının kirlenmesi problemi
+	+ tür niteleyiciler (type modifiers)
+		+ const anahtar sözcüğü ve const semantiği
+		+ volatile anahtar sözcükleri
+		+ restrict anahtar sözcüğü
