@@ -2,17 +2,17 @@
 
 * Bu kurs, katılımcıların öncelikle C programlama dilini iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde dili kullanma becerisi geliştirmelerini hedeflemektedir.
 
-* Kursta C programlama dilinin tüm sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
+* Kursta `C` programlama dilinin tüm sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
-* Eğitimde temel olarak C99 standartları esas alınmaktadır. C99 standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+* Eğitimde temel olarak `C99` standartları esas alınmaktadır. `C99` standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
 * C dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
 * Kurs yalnızca C dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
-* Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara (data structure & algorithms) ilişkin temel kavramlar anlatılmaktadır.
-* Eğitimde bir C programcısının üretim ortamında kullanabileceği araçlar da tanıtılmaktadır.
+* Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(data structure & algorithms)` ilişkin temel kavramlar anlatılmaktadır.
+
 
 ### Ön Koşul
-Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa Necati Ergin ile görüşebilirsiniz.
+Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  `Necati Ergin` ile görüşebilirsiniz.
 
 ### Kurs Süresi
 Eğitimin toplam süresi `162` saattir. 
@@ -21,11 +21,15 @@ Eğitimin toplam süresi `162` saattir.
 Dersler hafta içi `Pazartesi – Çarşamba - Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3’er saat` olarak yapılacaktır.
 
 
-+ 19.30 – 20.50        1. ders
++ 19.30 – 20.20        1. ders
 
-+ 20.50 – 21.10        ara
++ 20.20 – 20.35        1. ara
 
-+ 21.10 – 22.00        2. ders
++ 20.35 – 21.25        2. ders
+
++ 21.25 - 21.40        2. ara
+
++ 21.40 - 22.30        3. ders
 
 ### Eğitim İçeriği
 Eğitim içeriğini bu bağlantıdan görebilirsiniz.
@@ -45,18 +49,18 @@ Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıla
 
 + Eğitim dili Türkçe’dir. Programlama ve `C` Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen `3` gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
 
 
 ## Eğitim Materyalleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile github üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kursun toplam ücreti KDV dahil 3.200 TL‘dir. Öğrenci olduğunu belgeleyenlere %10 indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse 2 taksitte ödeyebilirler.
+Kursun toplam ücreti `KDV Dahil 3.200 TL`'dir. Öğrenci olduğunu belgeleyenlere `%10` indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse `2` taksitte ödeyebilirler.
 
 ## Kursa Kayıt Olma
 Kursa katılım için önce ön kayıt yaptırmalısınız.  Kayıt olurken kendi isminiz ve e-posta adresinizi kullanmalısınız.
 9 Mart 2020 Pazartesi tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
 ## Sık Sorulan Sorular
-`Online C Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+`Online C Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
