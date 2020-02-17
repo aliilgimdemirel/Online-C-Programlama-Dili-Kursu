@@ -172,3 +172,24 @@
 		+ döngü idiyomları
 	+ switch deyimi
 	+ goto deyimi
++ __Koşul Operatörü (Ternary Operator)__
++ __Standart ctype Kütüphanesi__
+	+ karakter test işlevleri
+		+ isupper, islower, isalpha, isdigit, isalnum, isxdigit, isspace, isblank, ispunct, isprint, isgraph, iscntrl
+	+ karakter dönüşüm işlevleri
+		+ toupper ve tolower işlevleri
++ __İşlev Bildirimleri (Function Declarations)__
++ __Önişlemci Komutları – 1__
+	+ #include komutu
+	+ #define komutu ve makrolar
+		+ sembolik sabitler
+		+ işlevsel makrolar
+	+ #undef komutu
+	+ koşullu derleme işlemleri ve koşullu derleme komutları
+		+ #if
+		+ #endif
+		+ #else
+		+ #elif
+		+ #ifdef
+		+ #ifndef
+	+ standart limits kütüphanesi
