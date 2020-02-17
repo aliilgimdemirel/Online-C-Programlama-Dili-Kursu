@@ -67,3 +67,18 @@
 		+ tamsayı türleri (integer types)
 		+ gerçek sayı türleri (floating types)
 	+ programcı tarafından oluşturulan türler (user defined types)
+	
++ __Bildirim ve Tanımlama (Declarations & Definitions)__
+	+ bildirimler ve deyimler (declarations and statements)
+	+ ilk değer verme (initialization)
+	+ bildirim listesi
+	+ tanımlama (definition)
++ __Kapsam ve İsim arama (Scope & Name Lookup)__
+	+ kapsam (scope)
+		+ kapsam kategorileri
+			+ block scope
+			+ file scope
+			+ function prototype scope
+			+ function scope
+	+ isim arama (name lookup)
+	+ isim çakışmaları (name collision)
