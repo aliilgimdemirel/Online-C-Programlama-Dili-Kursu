@@ -2,12 +2,14 @@
 
 * Bu kurs, katılımcıların öncelikle C programlama dilini iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde dili kullanma becerisi geliştirmelerini hedeflemektedir.
 
-* Kursta `C` programlama dilinin tüm sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
+* Kursta `C` programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
 
 * Eğitimde temel olarak `C99` standartları esas alınmaktadır. `C99` standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+
 * C dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
 * Kurs yalnızca C dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
+
 * Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(data structure & algorithms)` ilişkin temel kavramlar anlatılmaktadır.
 
 
