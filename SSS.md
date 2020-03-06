@@ -43,6 +43,9 @@ Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi b
 ### Eğitimi takip ederken, bana okulda verilen ödevler ya da projeler için sizden destek alabilir miyim?
 Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalısınız.
 
+### Daha önce C ve Sistem Programcıları Derneğinde C kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+Hayır. Ancak C ve Sistem Programcıları Derneğinde düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
+
 ### Derslerde hangi IDE’yi ya da derleyiciyi kullanıyorsunuz?
 Derslerde `Visual Studio IDE`‘sini kullanıyorum. Bunun nedeni bu `IDE`'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde `Unix/Linux` kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
 
