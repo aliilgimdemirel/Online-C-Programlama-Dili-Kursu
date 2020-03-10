@@ -1,10 +1,10 @@
 ## Online C Kursu
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kurs `24 Mart 2020 tarihinde` başlayacaktır.
-+ Dersler `Salı ve Perşembe` günleri saat `19.30-22.30` arasında yapılacaktır.
-+ Kursun toplam süresi 162 saattir.
-+ Kurs eğitmeni `Necati Ergin`'dir.
++ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __Plepa Eğitim Hizmetleri__ işbirliği ile düzenlenmektedir.
++ Kurs __24 Mart 2020__ tarihinde` başlayacaktır.
++ Dersler __Salı ve Perşembe__ günleri  __19.30 - 22.30` saatleri arasında yapılacaktır.
++ Kursun toplam süresi __162__ saattir.
++ Kurs eğitmeni __Necati Ergin__'dir.
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
