@@ -2,25 +2,25 @@
 
 * Bu kurs, katılımcıların öncelikle __C__ programlama dilini iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde dili kullanma becerisi geliştirmelerini hedeflemektedir.
 
-* Kursta _C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
+* Kursta __C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
 
-* Eğitimde temel olarak `C99` standartları esas alınmaktadır. `C99` standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+* Eğitimde temel olarak `C99` standartları esas alınmaktadır. __C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
 
 * C dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
 * Kurs yalnızca C dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
-* Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(data structure & algorithms)` ilişkin temel kavramlar anlatılmaktadır.
+* Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara __(data structures & algorithms)__ ilişkin temel kavramlar anlatılmaktadır.
 
 
 ## Ön Koşul
-Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  `Necati Ergin` ile görüşebilirsiniz.
+Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
 Eğitimin toplam süresi __162__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi `Salı ve Perşembe` günleri  __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
+Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
 
 
 + __19.30 – 20.20        1. ders__
@@ -62,7 +62,7 @@ Kursun toplam ücreti __KDV Dahil 3.000 TL__'dir. Öğrenci olduğunu belgeleyen
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://zoom.us/meeting/register/uZYvf-2qrzsjgYiW9i7ffIctSeU4DwS9Nw)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
-`9 Mart 2020 Pazartesi` tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
+__9 Mart 2020 Pazartesi__ tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
 ## Sık Sorulan Sorular
 `Online C Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
