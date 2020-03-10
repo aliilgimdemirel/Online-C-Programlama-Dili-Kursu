@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __Plepa Eğitim Hizmetleri__ işbirliği ile düzenlenmektedir.
 + Kurs __24 Mart 2020__ tarihinde` başlayacaktır.
-+ Dersler __Salı ve Perşembe__ günleri  __19.30 - 22.30` saatleri arasında yapılacaktır.
++ Dersler __Salı ve Perşembe__ günleri  __19.30 - 22.30__ saatleri arasında yapılacaktır.
 + Kursun toplam süresi __162__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
 
