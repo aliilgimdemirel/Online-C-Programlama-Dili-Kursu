@@ -55,7 +55,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 
 
 ## Eğitim Materyalleri
-Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile github üzerinden paylaşılmaktadır.
+Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
 Kursun toplam ücreti __KDV Dahil 3.000 TL__'dir. Öğrenci olduğunu belgeleyenlere __%10__ indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
