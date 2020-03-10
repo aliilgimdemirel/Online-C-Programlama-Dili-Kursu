@@ -4,11 +4,11 @@
 
 * Kursta __C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
 
-* Eğitimde temel olarak `C99` standartları esas alınmaktadır. __C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+* Eğitimde temel olarak __C99__ standartları esas alınmaktadır. __C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
 
-* C dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
+* __C__ dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
-* Kurs yalnızca C dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
+* Kurs yalnızca __C__ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
 * Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara __(data structures & algorithms)__ ilişkin temel kavramlar anlatılmaktadır.
 
@@ -49,7 +49,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ve `C` Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile __Vimeo__ üzerinden izleyebilirler.
 
