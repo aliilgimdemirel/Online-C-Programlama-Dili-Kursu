@@ -61,7 +61,7 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 Kursun toplam ücreti __KDV Hariç 3.000 TL__'dir. Öğrenci olduğunu belgeleyenlere __%10__ indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://zoom.us/meeting/register/uZYvf-2qrzsjgYiW9i7ffIctSeU4DwS9Nw)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 __9 Mart 2020 Pazartesi__ tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
 ## Sık Sorulan Sorular
