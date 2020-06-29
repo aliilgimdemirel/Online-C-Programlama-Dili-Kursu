@@ -20,21 +20,21 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama
 Eğitimin toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
+Dersler hafta sonu __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
-+ __19.30 – 20.20        1. ders__
++ __09.00 – 10.10        1. ders__
 
-+ 20.20 – 20.35        1. ara
++ 10.10 – 10.30        1. ara
 
-+ __20.35 – 21.25        2. ders__
++ __10.30 – 11.40        2. ders__
 
-+ 21.25 - 21.40        2. ara
++ 11.40 - 12.00        2. ara
 
-+ __21.40 - 22.30        3. ders__
++ __12.00 - 13.00        3. ders__
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. `C ve C++` dillerinde aktif olarak uygulamalar geliştiren `Necati Ergin`, 100’ün üstünde şirket ve kuruma `C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları` konularında eğitim vermiştir. 
@@ -58,11 +58,11 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kursun toplam ücreti __KDV Hariç 3.000 TL__'dir. Öğrenci olduğunu belgeleyenlere __%10__ indirim yapılmaktadır. Kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
+Kursun toplam ücreti __KDV hariç 3.200 TL__'dir. Öğrenciler için kurs ücreti (öğrencilik durumlarını belgelemek kaydıyla) __KDV hariç 2.950 TL__'dir. Katılımcılar kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
-__9 Mart 2020 Pazartesi__ tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
+__1 Temmuz 2020 Pazartesi__ tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
 ## Sık Sorulan Sorular
-__Online C Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+__Online C Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
