@@ -17,10 +17,10 @@
 Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __162__ saattir. 
+Eğitimin toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
+Dersler hafta içi __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
 + __19.30 – 20.20        1. ders__
