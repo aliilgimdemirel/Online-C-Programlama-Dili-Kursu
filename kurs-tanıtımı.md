@@ -58,7 +58,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kursun toplam ücreti __3.500 TL__'dir. Öğrenciler için kurs ücreti (öğrencilik durumlarını belgelemek kaydıyla) __KDV hariç 2.950 TL__'dir. Katılımcılar kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
++ Kurs ücreti __KDV hariç 3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __KDV hariç 3.150 TL__'dir.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
