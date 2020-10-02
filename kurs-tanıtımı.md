@@ -20,18 +20,18 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama
 Eğitimin toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta sonu __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
+Dersler hafta sonu __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 
-+ __09.00 – 10.10        1. ders__
++ __19.30 – 20.20        1. ders__
 
-+ 10.10 – 10.30        1. ara
++ 20.20 – 20.35        1. ara
 
-+ __10.30 – 11.40        2. ders__
++ __20.35 – 21.25        2. ders__
 
-+ 11.40 - 12.00        2. ara
++ 21.25 - 21.40        2. ara
 
-+ __12.00 - 13.00        3. ders__
++ __21.40 - 22.30        3. ders__
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
@@ -41,7 +41,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 `Necati Ergin`’in eğitim verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), [Havelsan](https://www.havelsan.com.tr/), [Roketsan](http://www.roketsan.com.tr/), [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), [Netaş](http://www.netas.com.tr/ana-sayfa/), [STM](https://www.stm.com.tr/tr), [Siemens](https://www.siemens-home.bsh-group.com/tr/), [THY Teknik](https://turkishtechnic.com/Home/TR), [Huawei](https://www.huawei.com/tr/), [Turkcell](https://www.turkcell.com.tr/), [Arçelik](https://www.arcelik.com.tr/), [Beko](https://www.beko.com.tr/), [Sunny Elektronik](https://www.sunny.com.tr/), [BSH](https://www.bsh-group.com/tr/), [Profilo](https://www.profilo.com/), [Mamur Teknoloji](http://www.mamurtech.com/), [Katron](http://katron.com.tr/), [TEB](https://www.teb.com.tr/), [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), [Türkiye İs Bankası](https://www.isbank.com.tr), [Garanti BBVA](https://www.garantibbva.com.tr/tr), [AVL Turkey](https://www.avl.com/-/avl-turkey), [Pavotek](https://pavotek.com.tr/), [Entes Elektronik](http://entes.com/tr/), [Audio Elektronik](https://www.audio.com.tr/), [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), [İspark](https://ispark.istanbul/), [Hugin](http://hugin.com.tr/tr/home), [Cardtek](https://www.paycore.com/), [Triodor Software](http://triodorarge.com/), [Crytek](https://www.crytek.com/), [Erdemir](https://www.erdemir.com.tr/), [İsdemir](https://www.isdemir.com.tr/), [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) gibi kurumlar yer almaktadır.
 
 ## Format
-+ `C Kursu` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __C Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -58,7 +58,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kursun toplam ücreti __KDV hariç 3.200 TL__'dir. Öğrenciler için kurs ücreti (öğrencilik durumlarını belgelemek kaydıyla) __KDV hariç 2.950 TL__'dir. Katılımcılar kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
+Kursun toplam ücreti __3.500 TL__'dir. Öğrenciler için kurs ücreti (öğrencilik durumlarını belgelemek kaydıyla) __KDV hariç 2.950 TL__'dir. Katılımcılar kurs ücretini katılımcılar dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
