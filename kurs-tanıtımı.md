@@ -10,7 +10,7 @@
 
 * Kurs yalnızca __C__ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
-* Bazı derslerde konuların daha  iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara __(data structures & algorithms)__ ilişkin temel kavramlar anlatılmaktadır.
+* Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için "veri yapılarına ve algoritmalara" __(Data Structures & Algorithms)__ ilişkin temel kavramlar anlatılmaktadır.
 
 
 ## Ön Koşul
