@@ -79,9 +79,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Türkiye İs Bankası](https://www.isbank.com.tr), 
 [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) 
 [Triodor Software](http://triodorarge.com/), 
-[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/)
-
-gibi kurumlar yer almaktadır.
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/) gibi kurumlar yer almaktadır.
 
 ## Format
 + __C Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
