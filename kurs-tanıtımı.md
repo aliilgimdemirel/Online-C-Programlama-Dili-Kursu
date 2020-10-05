@@ -38,7 +38,50 @@ Dersler hafta sonu __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma __C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları__ konularında eğitim vermiştir. 
-__Necati Ergin__'in eğitim verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), [Havelsan](https://www.havelsan.com.tr/), [Roketsan](http://www.roketsan.com.tr/), [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), [Netaş](http://www.netas.com.tr/ana-sayfa/), [STM](https://www.stm.com.tr/tr), [Siemens](https://www.siemens-home.bsh-group.com/tr/), [THY Teknik](https://turkishtechnic.com/Home/TR), [Huawei](https://www.huawei.com/tr/), [Turkcell](https://www.turkcell.com.tr/), [Arçelik](https://www.arcelik.com.tr/), [Beko](https://www.beko.com.tr/), [Sunny Elektronik](https://www.sunny.com.tr/), [BSH](https://www.bsh-group.com/tr/), [Profilo](https://www.profilo.com/), [Mamur Teknoloji](http://www.mamurtech.com/), [Katron](http://katron.com.tr/), [TEB](https://www.teb.com.tr/), [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), [Türkiye İs Bankası](https://www.isbank.com.tr), [Garanti BBVA](https://www.garantibbva.com.tr/tr), [AVL Turkey](https://www.avl.com/-/avl-turkey), [Pavotek](https://pavotek.com.tr/), [Entes Elektronik](http://entes.com/tr/), [Audio Elektronik](https://www.audio.com.tr/), [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), [İspark](https://ispark.istanbul/), [Hugin](http://hugin.com.tr/tr/home), [Cardtek](https://www.paycore.com/), [Triodor Software](http://triodorarge.com/), [Crytek](https://www.crytek.com/), [Erdemir](https://www.erdemir.com.tr/), [İsdemir](https://www.isdemir.com.tr/), [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) gibi kurumlar yer almaktadır.
+__Necati Ergin__'in eğitim verdiği kurumlar arasında 
+
+[Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
+[Ankasis](http://www.ankasis.com/),
+[Arçelik](https://www.arcelik.com.tr/), 
+[Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), 
+[Asis Elektronik](https://asiselektronik.com.tr/),
+[Audio Elektronik](https://www.audio.com.tr/), 
+[AVL Turkey](https://www.avl.com/-/avl-turkey), 
+[Baykar Savunma](https://www.baykarsavunma.com/),
+[Beko](https://www.beko.com.tr/), 
+[Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), 
+[BSH](https://www.bsh-group.com/tr/), 
+[Cardtek](https://www.paycore.com/), 
+[Crytek](https://www.crytek.com/), 
+[Entes Elektronik](http://entes.com/tr/), 
+[Erdemir](https://www.erdemir.com.tr/), 
+[Garanti BBVA](https://www.garantibbva.com.tr/tr), 
+[Havelsan](https://www.havelsan.com.tr/), 
+[Huawei](https://www.huawei.com/tr/), 
+[Hugin](http://hugin.com.tr/tr/home), 
+[İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), 
+[İsdemir](https://www.isdemir.com.tr/), 
+[İspark](https://ispark.istanbul/), 
+[Katron](http://katron.com.tr/), 
+[Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
+[Mamur Teknoloji](http://www.mamurtech.com/), 
+[Netaş](http://www.netas.com.tr/ana-sayfa/), 
+[Pavotek](https://pavotek.com.tr/), 
+[Profilo](https://www.profilo.com/), 
+[Roketsan](http://www.roketsan.com.tr/), 
+[Siemens](https://www.siemens-home.bsh-group.com/tr/), 
+[STM](https://www.stm.com.tr/tr), 
+[Sunny Elektronik](https://www.sunny.com.tr/), 
+[TEB](https://www.teb.com.tr/), 
+[THY Teknik](https://turkishtechnic.com/Home/TR), 
+[Tübitak](https://www.tubitak.gov.tr/), 
+[Turkcell](https://www.turkcell.com.tr/), 
+[Türkiye İs Bankası](https://www.isbank.com.tr), 
+[Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) 
+[Triodor Software](http://triodorarge.com/), 
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/)
+
+gibi kurumlar yer almaktadır.
 
 ## Format
 + __C Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
