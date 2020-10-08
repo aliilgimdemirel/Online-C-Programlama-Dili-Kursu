@@ -7,7 +7,7 @@
 + Dersler __Salı ve Perşembe__ günleri  __19.30 - 22.30__ saatleri arasında yapılacaktır.
 + Kursun toplam süresi __160__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
-+ Kurs ücreti __KDV hariç 3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __KDV hariç 3.150 TL__'dir.
++ Kurs ücreti __3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __3.150 TL__'dir.
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
