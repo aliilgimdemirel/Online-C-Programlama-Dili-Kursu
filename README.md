@@ -4,7 +4,7 @@
 + Kurs __1 Şubat 2021__ tarihinde başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı __1.000__'in üzerinde ayrı kod yazılacaktır.
-+ Dersler __Pazartesi, Çarşamba ve Cuma günleri  __19.30 - 22.30__ saatleri arasında yapılacaktır.
++ Dersler __Pazartesi, Çarşamba ve Cuma günleri 19.30 - 22.30__ saatleri arasında yapılacaktır.
 + Kursun toplam süresi __160__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
 + Kurs ücreti __3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __3.200 TL__'dir.
