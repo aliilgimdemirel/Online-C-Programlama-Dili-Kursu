@@ -14,5 +14,4 @@
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0tde2gqjojHtOC2KvFG7QCI6ZdsSO5Q-7O)
-
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZErd-Cgrz8uE9a59Qtbo_IT8khbkvMWZk0U)
